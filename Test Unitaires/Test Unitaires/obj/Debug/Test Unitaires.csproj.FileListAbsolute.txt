@@ -1,0 +1,7 @@
+P:\ihamac\SLAM4\Test Unitaires\Test Unitaires\bin\Debug\Test Unitaires.exe.config
+P:\ihamac\SLAM4\Test Unitaires\Test Unitaires\bin\Debug\Test Unitaires.exe
+P:\ihamac\SLAM4\Test Unitaires\Test Unitaires\bin\Debug\Test Unitaires.pdb
+P:\ihamac\SLAM4\Test Unitaires\Test Unitaires\obj\Debug\Test Unitaires.csprojAssemblyReference.cache
+P:\ihamac\SLAM4\Test Unitaires\Test Unitaires\obj\Debug\Test Unitaires.csproj.CoreCompileInputs.cache
+P:\ihamac\SLAM4\Test Unitaires\Test Unitaires\obj\Debug\Test Unitaires.exe
+P:\ihamac\SLAM4\Test Unitaires\Test Unitaires\obj\Debug\Test Unitaires.pdb

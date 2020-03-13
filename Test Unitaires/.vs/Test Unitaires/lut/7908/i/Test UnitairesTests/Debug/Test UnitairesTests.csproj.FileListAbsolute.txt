@@ -1,0 +1,11 @@
+C:\Users\ihamac\Desktop\Test Unitaires\.vs\Test Unitaires\lut\0\b\Test UnitairesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ihamac\Desktop\Test Unitaires\.vs\Test Unitaires\lut\0\b\Test UnitairesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ihamac\Desktop\Test Unitaires\.vs\Test Unitaires\lut\0\b\Test UnitairesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ihamac\Desktop\Test Unitaires\.vs\Test Unitaires\lut\0\b\Test UnitairesTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\ihamac\Desktop\Test Unitaires\.vs\Test Unitaires\lut\0\b\Test UnitairesTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\ihamac\Desktop\Test Unitaires\.vs\Test Unitaires\lut\0\b\Test UnitairesTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ihamac\Desktop\Test Unitaires\.vs\Test Unitaires\lut\0\b\Test UnitairesTests\bin\Debug\Test UnitairesTests.dll
+C:\Users\ihamac\Desktop\Test Unitaires\.vs\Test Unitaires\lut\0\i\Test UnitairesTests\Debug\Test UnitairesTests.csprojAssemblyReference.cache
+C:\Users\ihamac\Desktop\Test Unitaires\.vs\Test Unitaires\lut\0\i\Test UnitairesTests\Debug\Test UnitairesTests.csproj.CoreCompileInputs.cache
+C:\Users\ihamac\Desktop\Test Unitaires\.vs\Test Unitaires\lut\0\i\Test UnitairesTests\Debug\Test UnitairesTests.csproj.CopyComplete
+C:\Users\ihamac\Desktop\Test Unitaires\.vs\Test Unitaires\lut\0\i\Test UnitairesTests\Debug\Test UnitairesTests.dll

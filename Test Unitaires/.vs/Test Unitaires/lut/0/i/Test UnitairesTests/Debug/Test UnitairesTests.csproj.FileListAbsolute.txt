@@ -1,0 +1,11 @@
+P:\ihamac\SLAM4\Test Unitaires\.vs\Test Unitaires\lut\0\b\Test UnitairesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+P:\ihamac\SLAM4\Test Unitaires\.vs\Test Unitaires\lut\0\b\Test UnitairesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+P:\ihamac\SLAM4\Test Unitaires\.vs\Test Unitaires\lut\0\b\Test UnitairesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+P:\ihamac\SLAM4\Test Unitaires\.vs\Test Unitaires\lut\0\b\Test UnitairesTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+P:\ihamac\SLAM4\Test Unitaires\.vs\Test Unitaires\lut\0\b\Test UnitairesTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+P:\ihamac\SLAM4\Test Unitaires\.vs\Test Unitaires\lut\0\b\Test UnitairesTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+P:\ihamac\SLAM4\Test Unitaires\.vs\Test Unitaires\lut\0\b\Test UnitairesTests\bin\Debug\Test UnitairesTests.dll
+P:\ihamac\SLAM4\Test Unitaires\.vs\Test Unitaires\lut\0\i\Test UnitairesTests\Debug\Test UnitairesTests.csprojAssemblyReference.cache
+P:\ihamac\SLAM4\Test Unitaires\.vs\Test Unitaires\lut\0\i\Test UnitairesTests\Debug\Test UnitairesTests.csproj.CoreCompileInputs.cache
+P:\ihamac\SLAM4\Test Unitaires\.vs\Test Unitaires\lut\0\i\Test UnitairesTests\Debug\Test UnitairesTests.csproj.CopyComplete
+P:\ihamac\SLAM4\Test Unitaires\.vs\Test Unitaires\lut\0\i\Test UnitairesTests\Debug\Test UnitairesTests.dll

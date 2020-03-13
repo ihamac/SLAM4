@@ -1,0 +1,5 @@
+C:\Users\ihamac\Desktop\Test Unitaires\.vs\Test Unitaires\lut\0\b\Test Unitaires\bin\Debug\Test Unitaires.exe.config
+C:\Users\ihamac\Desktop\Test Unitaires\.vs\Test Unitaires\lut\0\b\Test Unitaires\bin\Debug\Test Unitaires.exe
+C:\Users\ihamac\Desktop\Test Unitaires\.vs\Test Unitaires\lut\0\i\Test Unitaires\Debug\Test Unitaires.csproj.CoreCompileInputs.cache
+C:\Users\ihamac\Desktop\Test Unitaires\.vs\Test Unitaires\lut\0\i\Test Unitaires\Debug\Test Unitaires.csproj.CopyComplete
+C:\Users\ihamac\Desktop\Test Unitaires\.vs\Test Unitaires\lut\0\i\Test Unitaires\Debug\Test Unitaires.exe

@@ -1,0 +1,14 @@
+U:\SLAM4\GestionDeFichier\GestionDeFichier\bin\Debug\GestionDeFichier.exe.config
+U:\SLAM4\GestionDeFichier\GestionDeFichier\bin\Debug\GestionDeFichier.exe
+U:\SLAM4\GestionDeFichier\GestionDeFichier\bin\Debug\GestionDeFichier.pdb
+U:\SLAM4\GestionDeFichier\GestionDeFichier\obj\Debug\GestionDeFichier.csprojAssemblyReference.cache
+U:\SLAM4\GestionDeFichier\GestionDeFichier\obj\Debug\GestionDeFichier.csproj.CoreCompileInputs.cache
+U:\SLAM4\GestionDeFichier\GestionDeFichier\obj\Debug\GestionDeFichier.exe
+U:\SLAM4\GestionDeFichier\GestionDeFichier\obj\Debug\GestionDeFichier.pdb
+P:\ihamac\SLAM4\GestionDeFichier\GestionDeFichier\bin\Debug\GestionDeFichier.exe.config
+P:\ihamac\SLAM4\GestionDeFichier\GestionDeFichier\bin\Debug\GestionDeFichier.exe
+P:\ihamac\SLAM4\GestionDeFichier\GestionDeFichier\bin\Debug\GestionDeFichier.pdb
+P:\ihamac\SLAM4\GestionDeFichier\GestionDeFichier\obj\Debug\GestionDeFichier.csprojAssemblyReference.cache
+P:\ihamac\SLAM4\GestionDeFichier\GestionDeFichier\obj\Debug\GestionDeFichier.csproj.CoreCompileInputs.cache
+P:\ihamac\SLAM4\GestionDeFichier\GestionDeFichier\obj\Debug\GestionDeFichier.exe
+P:\ihamac\SLAM4\GestionDeFichier\GestionDeFichier\obj\Debug\GestionDeFichier.pdb
